@@ -1,0 +1,20 @@
+ /* This tag will affect ALL images */
+img{
+    height: 20em;
+}
+
+/* This changes the background color for the WHOLE page */
+body{
+    background-color: olivedrab;
+}
+
+/* This will change the font for EVERYTHING in the SECTION tag */
+/* So be careful if you have MULTIPLE SECTION tags - you will have to be more specific! */
+section{
+    font-style:italic
+}
+
+/* This will change the font color of EVERYTHING within a h1 tag */
+h1{
+    color: aliceblue;
+}
